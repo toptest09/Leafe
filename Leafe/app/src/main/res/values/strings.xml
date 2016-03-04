@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Leafe</string>
+    <string name="title_activity_mxfj">Mxfj</string>
+    <string name="Tab1">You Are In Tab 1</string>
+    <string name="Tab2">You Are In Tab 2</string>
+    <string name="Tab3">You Are In Tab 3</string>
+    <string name="Tab4">You Are In Tab 4</string>
+</resources>
